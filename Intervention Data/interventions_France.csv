@@ -1,0 +1,17 @@
+State,Population,Type,Date,Start/End,Description
+France,"67,153,000",Public events,14.03.2020,1,Bans of events >100 people.
+France,"67,153,000",Schools + Universities,14.03.2020,1,Nationwide school closures.
+France,"67,153,000",Social distancing encouraged,16.03.2020,1,Advice at the time of lockdown.
+France,"67,153,000",Self-isolating if ill,16.03.2020,1,Advice at the time of lockdown.
+France,"67,153,000",Border Closure,17.03.2020,1,All countries
+France,"67,153,000",Lockdown,17.03.2020,1,Everybody has to stay at home. Need a self-authorisation form to leave home.
+except paris & mayotte,"64,683,202",Lockdown,11.05.2020,0,Everybody has to stay at home. Need a self-authorisation form to leave home.
+Paris,"2,190,327",Lockdown,14.06.2020,0,
+Mayotte,"279,471",Lockdown,15.06.2020,0,
+France,"67,153,000",Schools + Universities,22.06.2020,0,Nationwide school closures.
+France,"67,153,000",Border Closure,01.07.2020,0,non-EU countries allowed
+France,"67,153,000",Mask Wearing,24.07.2020,1,compulsory in indoor spaces and some outdoor spaces like eiffel tower
+Marseille,"862,211",Lockdown,03.10.2020,1,"shut down restaurants, bars, gyms"
+Paris,"2,190,327",Lockdown,05.10.2020,1,"Shut down pubs, restaurants, cafes"
+nationwide,"120,875",Schools + Universities,16.09.2020,1,81 of 45k schools closed
+France,"67,153,000",Lockdown,30.10.2020,1,non essential businesses close

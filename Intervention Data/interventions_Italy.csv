@@ -1,0 +1,51 @@
+State,Population,Type,Date,Start/End,Description
+Palermo,"676,118",Schools + Universities,26.02.2020,1,
+Naples,"967,068",Schools + Universities,26.02.2020,1,
+Palermo,"676,118",Schools + Universities,01.03.2020,0,
+Naples,"967,068",Schools + Universities,01.03.2020,0,
+Taranto,"198,585",Schools + Universities,27.02.2020,1,
+Taranto,"198,585",Schools + Universities,01.03.2020,0,
+Messina,"231,708",Schools + Universities,29.02.2020,1,
+Messina,"231,708",Schools + Universities,04.03.2020,0,
+Piacenza ,"102,355",Schools + Universities,22.02.2020,1,
+Cremona,"71,924",Schools + Universities,22.02.2020,1,
+Casalpusterlengo,"15,208",Schools + Universities,22.02.2020,1,
+Codogno,"15,962",Schools + Universities,22.02.2020,1,
+Castiglione d’Adda,"4,665",Schools + Universities,22.02.2020,1,
+Maleo,"3,109",Schools + Universities,22.02.2020,1,
+Fombio,"2,314",Schools + Universities,22.02.2020,1,
+Somaglia,"3,824",Schools + Universities,22.02.2020,1,
+Bertonico,"1,132",Schools + Universities,22.02.2020,1,
+Castelgerundo,"1,489",Schools + Universities,22.02.2020,1,
+Terranova dei Passerini,901,Schools + Universities,22.02.2020,1,
+San Fiorano,"1,830",Schools + Universities,22.02.2020,1,
+Vo Euganeo,"3,416",Schools + Universities,22.02.2020,1,
+11 municipalities,"53,785",Lockdown,22.02.2020,1,The government closes all public places. People have to stay at home except for essential travel.
+Lombardy + 14 provinces,"16,466,636",Lockdown,08.03.2020,1,The government closes all public places. People have to stay at home except for essential travel.
+Italy,"60,317,116",Schools + Universities,05.03.2020,1,Nationwide school closures.
+Italy,"60,317,116",Lockdown,11.03.2020,1,The government closes all public places. People have to stay at home except for essential travel.
+Italy,"60,317,116",Public events,09.03.2020,1,The government bans all public events.
+Italy,"60,317,116",Social distancing encouraged,09.03.2020,1,A distance of more than 1m has to be kept and any other form of alternative aggregation is to be excluded.
+Italy,"60,317,116",Self-isolating if ill,09.03.2020,1,self-isolate if ill and quarantine if tested positive
+Italy,"60,317,116",Lockdown,03.06.2020,0,Free movement across italy
+Lombardy,"10,060,574",Mask Wearing,04.04.2020,1,
+Tuscany,"3,729,641",Mask Wearing,06.04.2020,1,
+,,Mask Wearing (ignore),17.08.2020,,"crowded areas, social gatherings (ignoring)"
+Italy,"42,221,981",Schools + Universities,14.09.2020,0,Only 5.6 millon of 8 million students went back to school
+Campania,"5,801,692",Lockdown,25.10.2020,1,
+Campania,"5,801,692",Schools + Universities,15.10.2020,1,
+Campania,"5,801,692",Schools + Universities,31.10.2020,0,
+Calabria,"1,947,131",Schools + Universities,26.10.2020,1,
+Italy,"60,317,116",Border Closure,10.03.2020,1,
+Italy,"60,317,116",Border Closure,03.06.2020,0,To all EU
+Campania,"5,801,692",Mask Wearing,24.09.2020,1,
+Rome,"2,837,332",Mask Wearing,02.10.2020,1,
+Italy,"60,317,116",Mask Wearing,09.10.2020,1,"Masks must also be worn in shops, offices, on public transport, and in bars and restaurants when not seated at a table."
+Lombardy,"10,060,574",Lockdown,06.11.2020,1,
+Piedmont,"4,356,406",Lockdown,06.11.2020,1,
+Aosta Valley,"125,666",Lockdown,06.11.2020,1,
+Calabria,"1,947,131",Lockdown,06.11.2020,1,
+Italy,"60,317,116",Schools + Universities,06.11.2020,1,
+South Tyrol,"531,178",Lockdown,09.11.2020,1,
+Calabria,"1,947,131",Lockdown,15.11.2020,1,
+Tuscany,"3,729,641",Lockdown,15.11.2020,1,

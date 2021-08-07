@@ -1,0 +1,15 @@
+State,Population,Type,Date,Start/End,Description
+North Brabant,"2,562,566",Self Isolation if ill,06.03.2020,1,advised inhabitants of the North Brabant province to reduce their social contacts if they showed symptoms
+North Brabant,"2,562,566",Social distancing encouraged,09.03.2020,1,
+Netherlands,"17,469,635",Public Events,12.03.2020,1,
+Netherlands,"17,469,635",Self Isolation if ill,12.03.2020,1,
+Netherlands,"17,469,635",Social distancing encouraged,12.03.2020,1,https://www.government.nl/latest/news/2020/03/12/new-measures-to-stop-spread-of-coronavirus-in-the-netherlands
+Netherlands,"17,469,635",Border Closure,18.03.2020,1,close borders to persons outside Europe
+Netherlands,"17,469,635",Schools + Universities,15.03.2020,1,https://www.government.nl/latest/news/2020/03/15/additional-measures-in-schools-the-hospitality-sector-and-sport
+Netherlands,"17,469,635",Lockdown,23.03.2020,1,https://www.government.nl/latest/news/2020/03/23/stricter-measures-to-control-coronavirus
+Netherlands,"17,469,635",Lockdown,01.06.2020,0,
+Netherlands,"17,469,635",Mask Wearing,01.06.2020,1,"In some situations it is impossible to stay 1.5 metres apart. It will therefore be compulsory to wear non-medical face masks on public transport from 1 June. To avoid scarcity,  you should not wear face masks intended for health professionals."
+Netherlands,"17,469,635",Schools + Universities,02.06.2020,0,"Secondary schools will reopen on 2 June,  Primary schools will be open their regular hours from 8 June, On 15 June schools for secondary vocational education (MBO),  institutions for higher professional education (HBO) and universities will reopen to a limited extent for exams, practical training and to provide support to vulnerable students"
+Netherlands,"17,469,635",Border Closure,01.07.2020,0,"Netherlands has lifted the travel ban for certain groups of travellers,  allowing permanent (long-term) residents of the following countries to enter the Netherlands: Algeria, Australia, Canada, Georgia, Japan, Montenegro"
+Netherlands,"17,469,635",Lockdown,14.10.2020,1,Partial lockdown: https://www.government.nl/latest/news/2020/10/13/partial-lockdown-needed-to-bring-down-infections
+Netherlands,"17,469,635",Schools + Universities,14.12.2020,1,heavy lockdown: https://www.government.nl/latest/news/2020/12/14/lockdown-in-order-to-minimise-contact-between-people

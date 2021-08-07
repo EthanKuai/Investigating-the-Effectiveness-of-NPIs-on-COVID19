@@ -1,0 +1,15 @@
+State,Population,Type,Date,Start/End,Description
+Ischgl,"1,593",Lockdown,13.03.2020,1,"Ski resort town, lots of infections, quarentine entire town"
+Austria,"8,935,112",Border closure,13.03.2020,1,"Border checks, banned arrivals from Italy, Hubei, Iran, South Korea, France, Spain, Switzerland"
+Austria,"8,935,112",Public events,15.03.2020,1,Banning of gatherings of more than 5 people. 
+Austria,"8,935,112",Schools + Universities,16.03.2020,1,Nationwide school closures.
+Tyrol,"746,153",Lockdown,15.03.2020,1,
+Austria,"8,935,112",Lockdown,16.03.2020,1,Banning all access to public spaces and gatherings of more than 5 people. Advice to maintain 1m distance.
+Austria,"8,935,112",Social distancing encouraged,16.03.2020,1,Recommendation to maintain a distance of 1m.
+Austria,"8,935,112",Self-isolating if ill,16.03.2020,1,Implemented at lockdown.
+Austria,"8,935,112",Schools + Universities,04.04.2020,0,Nationwide school closures.
+Austria,"8,935,112",Lockdown,20.04.2020,0,ease lockdown
+Austria,"8,935,112",Mask Wearing,06.04.2020,1,entering store compulsory
+Austria,"8,935,112",Border closure,16.06.2020,0,"Border reopen for Germany, Switzerland, Liechtenstein, Slovenia, Hungary, Slovakia and the Czech Republic"
+Austria,"8,935,112",Lockdown,17.11.2020,1,
+Austria,"8,935,112",Border closure,12.11.2020,1,"""reintroduced in a context different from covid 19"" ""related to organised crime and terrorists"""

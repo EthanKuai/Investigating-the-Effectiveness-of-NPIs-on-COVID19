@@ -1,0 +1,60 @@
+State,Population,Type,Date,Start/End,Description
+Germany,"83,019,213",Public events,12.03.2020,1,"general ban on events with more than 1,000 participants"
+Germany,"83,019,213",Self-isolating if ill,06.03.2020,1,Advice for everyone experiencing symptoms to contact a health care agency to get tested and then self-isolate.
+Germany,"83,019,213",Social distancing encouraged,22.03.2020,1,Avoid social interaction wherever possible recommended by Merkel
+North Rhine-Westphalia,"17,932,651",Schools + Universities,14.03.2020,1,Nationwide school closures.
+Baden-Wurttemberg,"11,069,533",Schools + Universities,14.03.2020,1,Nationwide school closures.
+Bavaria,"13,076,721",Schools + Universities,14.03.2020,1,Nationwide school closures.
+Rhineland-Palatinate,"4,084,844",Schools + Universities,14.03.2020,1,Nationwide school closures.
+Hesse,"6,265,809",Schools + Universities,14.03.2020,1,Nationwide school closures.
+Saarland,"990,509",Schools + Universities,14.03.2020,1,Nationwide school closures.
+Berlin,"3,644,826",Schools + Universities,14.03.2020,1,Nationwide school closures.
+Brandenburg,"2,511,917",Schools + Universities,14.03.2020,1,Nationwide school closures.
+Thuringia,"2,143,145",Schools + Universities,14.03.2020,1,Nationwide school closures.
+Saxony-Anhalt,"2,208,321",Schools + Universities,14.03.2020,1,Nationwide school closures.
+Schleswig-Holstein,"2,896,712",Schools + Universities,14.03.2020,1,Nationwide school closures.
+Hamburg,"1,841,179",Schools + Universities,14.03.2020,1,Nationwide school closures.
+Bremen,"682,986",Schools + Universities,14.03.2020,1,Nationwide school closures.
+Lower Saxony,"7,982,448",Schools + Universities,14.03.2020,1,Nationwide school closures.
+Germany,"83,019,213",Border Closure,16.03.2020,1,"Close borders with France, Switzerland, Austria, Denmark, Luxembourg"
+Bavaria,"13,076,721",Lockdown,21.03.2020,1,"Gatherings of > 2 people banned, 1.5 m distance"
+Saarland,"990,509",Lockdown,21.03.2020,1,"Gatherings of > 2 people banned, 1.5 m distance"
+Germany,"83,019,213",Lockdown,22.03.2020,1,"Gatherings of > 2 people banned, 1.5 m distance"
+Germany,"83,019,213",Lockdown,20.04.2020,0,Shops start to reopen
+Germany,"83,019,213",Schools + Universities,04.05.2020,0,Nationwide school reopens.
+Jena,"111,343",Mask Wearing,31.03.2020,1,"Part of Thuringia, Obligation to wear masks in supermarkets, public transport, buildings with public traffic"
+Saxony,"4,077,937",Mask Wearing,20.04.2020,1,"Obligation to wear masks in supermarkets, public transport, buildings with public traffic"
+Baden-Wurttemberg,"11,069,533",Mask Wearing,27.04.2020,1,Recommended those without symptoms to wear masks
+Bavaria,"13,076,721",Mask Wearing,27.04.2020,1,Recommended those without symptoms to wear masks
+Berlin,"3,644,826",Mask Wearing,27.04.2020,1,Recommended those without symptoms to wear masks
+Brandenburg,"2,511,917",Mask Wearing,27.04.2020,1,Recommended those without symptoms to wear masks
+Bremen,"682,986",Mask Wearing,27.04.2020,1,Recommended those without symptoms to wear masks
+Hamburg,"1,841,179",Mask Wearing,27.04.2020,1,Recommended those without symptoms to wear masks
+Hesse,"6,265,809",Mask Wearing,20.04.2020,1,Recommended those without symptoms to wear masks
+City of Wolfsburg,"124,371",Mask Wearing,20.04.2020,1,"Part of Lower Saxony, Recommended those without symptoms to wear masks"
+City of Wolfsburg,"124,371",Mask Wearing,27.04.2020,0,"Part of Lower Saxony, Recommended those without symptoms to wear masks"
+Lower Saxony,"7,982,448",Mask Wearing,20.04.2020,1,Recommended those without symptoms to wear masks
+Rhineland-Palatinate,"4,084,844",Mask Wearing,27.04.2020,1,Recommended those without symptoms to wear masks
+North Rhine-Westphalia,"17,932,651",Mask Wearing,27.04.2020,1,Recommended those without symptoms to wear masks
+Saarland,"990,509",Mask Wearing,27.04.2020,1,Recommended those without symptoms to wear masks
+Saxony-Anhalt,"2,208,321",Mask Wearing,23.04.2020,1,Recommended those without symptoms to wear masks
+Schleswig-Holstein,"2,896,712",Mask Wearing,29.04.2020,1,Recommended those without symptoms to wear masks
+Jena,"111,343",Mask Wearing,24.04.2020,0,"Part of Thuringia, Obligation to wear masks in supermarkets, public transport, buildings with public traffic"
+Thuringia,"2,143,145",Mask Wearing,24.04.2020,1,Recommended those without symptoms to wear masks
+,,Riots,01.05.2020,,Several thousand protestors organised gatherings
+,,Opening of some facilities,01.05.2020,,"Opening of museums, monuments, botanical gardens, zoos"
+,,All shops reopen,06.05.2020,,
+Germany,"83,019,213",Border Closure,15.05.2020,0,"Reopen borders with France, Switzerland, Austria, Luxembourg"
+Gütersloh,"100,194",Schools + Universities,17.06.2020,1,"District-wide, in response to meat factory outbreak"
+Gütersloh,"100,194",Schools + Universities,30.06.2020,0,"District-wide, in response to meat factory outbreak"
+Gütersloh,"100,194",Lockdown,23.06.2020,1,"District-wide, in response to meat factory outbreak"
+Gütersloh,"100,194",Lockdown,07.07.2020,0,"District-wide, in response to meat factory outbreak"
+Warendrof,"277,840",Schools + Universities,23.06.2020,1,District-wide
+Warendrof,"277,840",Schools + Universities,30.06.2020,0,District-wide
+Warendrof,"277,840",Lockdown,23.06.2020,1,District-wide
+Warendrof,"277,840",Lockdown,30.06.2020,0,District-wide
+Germany,"83,019,213",Further opening borders,02.07.2020,,Phasing temporary entry restrictions from 11 countries outside EU
+Berlin,,Protest,01.08.2020,,
+North Rhine-Westphalia,,Protest,20.09.2020,,
+Germany,"83,019,213",Schools + Universities,02.11.2020,1,Nationwide school closures.
+Germany,"83,019,213",Lockdown,02.11.2020,1,"Gatherings of > 2 people banned, 1.5 m distance"

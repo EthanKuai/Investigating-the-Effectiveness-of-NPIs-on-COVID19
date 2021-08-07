@@ -1,0 +1,15 @@
+State,Population,Type,Date,Start/End,Description
+UK,"67,886,004",Self Isolation if ill,12.03.2020,1, The government advised that anyone with a new continuous cough or a fever should self-isolate for seven days.
+UK,"67,886,004",Social distancing encouraged,16.03.2020,1,"advised everyone in the UK against ""non-essential"" travel and contact with others, as well as suggesting people should avoid pubs, clubs and theatres, and work from home if possible"
+UK,"67,886,004",Border Closure,17.03.2020,1,Travel Advice against all non-essential travel
+UK,"67,886,004",Schools + Universities,20.03.2020,1, that schools in England would also close to all pupils from 20 March until further notice
+UK,"67,886,004",Public Events,24.03.2020,1,"non-essential activities, including all public gatherings and social events except funerals, were prohibited"
+UK,"67,886,004",Lockdown,24.03.2020,1,"stay home throughout this period except for essential purchases, essential work travel (if remote work was not possible), medical needs, one exercise per day (alone or with household members), and providing care for others."
+England,"56,286,961",Schools + Universities,01.06.2020,0," Primary schools in England reopened to some reception (4-5 years), year 1 (5-6 years) and year 6 (10-11 years) pupils with social distancing measures in place."
+UK,"67,886,004",Mask Wearing,15.06.2020,1,face masks compulsory on all public transport.
+"England, Wales, Northern Ireland","5,046,700",Schools + Universities,28.08.2020,0," reopening of schools at full capacity in England, Wales and Northern Ireland"
+UK,"67,886,004",Border Closure,18.05.2020,0,
+UK,"67,886,004",Lockdown,13.05.2020,0,https://www.gov.uk/government/news/new-guidance-on-spending-time-outdoors
+Leicester,"357,394",Lockdown,30.06.2020,1,
+Leicester,"357,394",Schools + Universities,02.07.2020,0,
+Leicester,"357,394",Border Closure,30.06.2020,1,
